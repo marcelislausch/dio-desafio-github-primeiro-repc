@@ -1,0 +1,9 @@
+git pull (trazer as alterações do repositório remoto para o local)
+
+git status (status atual do repositório)
+
+git add . (para incluir as alterações de um ou vários arquivos em nosso próximo commit.)
+
+git commit -m “” (comunicar as alterações)
+
+git push (subir a alteração para o repositório remoto)
